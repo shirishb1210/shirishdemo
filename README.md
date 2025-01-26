@@ -1,2 +1,4 @@
-# shirishdemo
-this is my first repos
+# github demo 
+this is my first repository
+done by shirish.b
+
