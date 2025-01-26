@@ -1,4 +1,4 @@
 # github demo 
-this is my first repository
-done by shirish.b
+this is my first repository,
+Done by shirish.b
 
